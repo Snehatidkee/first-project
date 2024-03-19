@@ -1,0 +1,107 @@
+.main{
+    margin-top: 10px;
+    border-radius: 1%;
+    height: 318px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+h5{
+   font-size: 12px;
+}
+.row{
+    gap: 30px;
+}
+
+/* <div class="main shadow-effects">
+<h5><b>Program Information</b></h5>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1" viewBox="0 0 1503.411 1">
+   <line id="Line_4" data-name="Line 4" x2="1503.411" transform="translate(0 0.5)" fill="none" stroke="#0e4ab3" stroke-width="1"/>
+ </svg>
+ <br>
+<form >                        
+<div class="frm col-md-12">
+ <div class="row">
+
+
+     
+<div class=" col-md-2">
+<label class="name" for="">Date of Engagement:<span class="star">*</span>
+   
+</label><br>
+<app-input-field
+   [inputType]="'text'"
+   ></app-input-field>
+<label class="name" for="">Agency:<span class="star">*</span>
+  
+</label><br>
+<app-select></app-select><br>
+ <label class="name" for="">Sponsor Liaison:<span class="star">*</span>
+   
+ </label><br>
+ <app-select></app-select><br>
+ <label class="name" for="">Date Job Letter Sent:<span class="star">*</span>
+  
+</label><br>
+<app-input-field
+[inputType]="'text'"
+></app-input-field>
+ </div>
+
+ <div class=" col-md-2">
+   <label class="name" for="">GER ID Number:<span class="star">*</span>
+      
+   </label><br>
+   <app-input-field
+   [inputType]="'text'"
+   ></app-input-field>
+   <label class="name" for="">Sponser:<span class="star">*</span>
+      
+   </label><br>
+   <app-select></app-select><br>
+    <label class="name" for="">Adjustment/Consular Process:<span class="star">*</span>
+       
+    </label><br>
+    <app-select></app-select><br>
+    </div>
+
+    <div class=" col-md-2">
+       <label class="name" for="">Current Visa:<span class="star">*</span>
+          
+       </label><br>
+       
+ <app-select></app-select><br>
+    <label class="name" for="">Attorney:<span class="star">*</span>
+           
+       </label><br>
+       <app-input-field
+   [inputType]="'text'"
+   ></app-input-field>
+       <label class="name" for="">Level:<span class="star">*</span>
+         
+       </label><br>
+       <app-select></app-select><br>
+        
+        </div>
+        <div class="row-column col-md-2">
+           <label class="name" for="">Visa Progrm:<span class="star">*</span>
+               
+           </label><br>
+           <app-select></app-select><br>
+           <label class="name" for="">Advisor:<span class="star">*</span>
+               
+           </label><br>
+           <app-select></app-select><br>
+           <label class="name" for="">Applicant Number:<span class="star">*</span>
+            
+           </label><br>
+           <app-input-field
+   [inputType]="'text'"
+   ></app-input-field>
+            
+            </div>
+
+
+</div>
+</div>
+ */

@@ -1,0 +1,20 @@
+.main{
+    margin-top: 10px;
+    border-radius: 1%;
+    padding-top: 20px;
+    padding-left: 30px;
+    height: 197px;
+}
+
+h5{
+   font-size: 12px;
+}
+.row{
+    gap: 30px;
+}
+
+/* .display{
+    display:flex;
+    gap:45px;
+} */
+

@@ -1,0 +1,21 @@
+select {
+    width: 300px;
+    height: 27px;
+    width: 168px;
+    border-radius: 4px;
+    border-color: #a1a1a1;
+    border: 1px solid  #A1A1A1;
+    margin-bottom: 10px;
+}
+  button,
+  select {
+   
+    color: #0e4ab3;
+    cursor: pointer;
+  }
+option{
+    color: #A1A1A1;
+    text-transform: none;
+
+}
+

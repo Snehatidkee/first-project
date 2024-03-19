@@ -1,0 +1,43 @@
+.main{
+    margin-top: 10px;
+    border-radius: 1%;
+    height: 310px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.name{
+    color: #0E4AB3; 
+
+}
+
+h5{
+   font-size: 12px;
+}
+input[type="radio"]{
+    margin: 0 10px 0 10px;
+}
+input[type="number"]{
+margin-bottom: 10px;
+}
+.age{
+    font-size: 12px;
+    color:#707070 ;
+} 
+.row{
+    gap: 30px;
+   
+} 
+
+
+/* .child{
+    display:flex;
+   gap: 30px;
+   
+} */
+
+
+.no{
+    display:inline;
+}
+
+

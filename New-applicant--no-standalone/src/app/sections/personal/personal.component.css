@@ -1,0 +1,38 @@
+.main{
+    margin-top: 10px;
+    border-radius: 1%;
+    height: 260px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.name{
+     color: #0E4AB3; ;
+}
+
+h5{
+    font-size: 12px;
+}
+select {
+    width: 300px;
+    height: 27px;
+    width: 169px;
+    border-radius: 4px;
+    border-color: #a1a1a1;
+    border: 1px solid  #A1A1A1;
+}
+  button,
+  select {
+   
+    color: #0e4ab3;
+    cursor: pointer;
+  }
+option{
+    color: #A1A1A1;
+    text-transform: none;
+
+}
+.row{
+    gap: 30px;
+   
+
+}

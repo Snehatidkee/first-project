@@ -1,0 +1,76 @@
+
+header{
+padding-left: 35px;
+}
+.main-body{
+    margin-left: 150px;
+    background-color:white;
+    }
+
+.user{
+   
+    padding-top: 2.2em;
+    padding-left:auto;
+  
+}
+.icon1{
+
+    padding-top: 20px;
+}
+.bell{
+    margin-top: 1px;
+    padding-left: 50px;
+}
+.emp{
+    display: flex;
+}
+h5{
+    padding-top: 15px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mb-0{
+    font-size:9px;
+    margin-bottom: 0 !important;
+}
+h6{
+    font-size: 9px;
+}
+select {
+    width: 15px;
+    border: none;
+}
+
+
+  
+
+/* element.style {
+}
+.middle {
+    vertical-align: middle;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.profile-dropdown {
+    width: 160px;
+    top: 57px;
+    left: -12px;
+    padding: 0 10px;
+}
+.onhover-show-div {
+    width: 330px;
+    top: 50px;
+    right: 0;
+    left: unset;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+   */
+
